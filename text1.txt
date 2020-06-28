@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 66D5-6939
+
+ Directory of C:\Users\Neeraj\Desktop\demo
+
+28-06-2020  08:33    <DIR>          .
+28-06-2020  08:33    <DIR>          ..
+28-06-2020  08:33                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  37,958,250,496 bytes free
